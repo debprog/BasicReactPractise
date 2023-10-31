@@ -1,0 +1,13 @@
+.styleItem
+{
+    /* background-color: #d11818; */
+    width:380px;
+    height:100px;
+    display:flex;
+    flex-direction: column;
+    padding-left: 35px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+
+    
+}
